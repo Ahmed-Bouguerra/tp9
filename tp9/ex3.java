@@ -7,7 +7,7 @@ public class TriVecteur {
         Scanner sc = new Scanner(System.in);
         int[] t = new int[taille];
         for (int i = 0; i < taille; i++) {
-            System.out.print("Entrer l'entier n°" + (i + 1) + " : ");
+            System.out.print("Entrer l'entier n" + (i + 1) + " : ");
             t[i] = sc.nextInt();
         }
         return t;
