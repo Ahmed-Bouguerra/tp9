@@ -14,7 +14,7 @@ public class TriVecteur {
     }
 
     public static void tri(int[] t) {
-        Arrays.sort(t);  // Tri crois
+        Arrays.sort(t); 
     }
 
     public static void affiche(int[] t) {
